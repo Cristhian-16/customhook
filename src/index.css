@@ -1,0 +1,14 @@
+body {
+    padding: 20px;
+    background-color: #222;
+    color: white;
+}
+
+button {
+    margin-right: 10px;
+}
+
+a {
+    margin-right: 3px;
+    color: white;
+}
